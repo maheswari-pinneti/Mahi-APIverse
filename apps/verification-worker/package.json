@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@mahi-api-verse/database": "workspace:*",
-    "bullmq": "^5.4.1",
+    "bullmq": "^6.3.8",
     "ioredis": "^5.3.2",
     "axios": "^1.6.7"
   },
