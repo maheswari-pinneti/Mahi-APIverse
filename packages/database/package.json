@@ -4,7 +4,7 @@
   "main": "src/index.ts",
   "private": true,
   "dependencies": {
-    "drizzle-orm": "^0.30.0",
+    "drizzle-orm": "^0.45.3",
     "pg": "^8.11.3"
   },
   "devDependencies": {
